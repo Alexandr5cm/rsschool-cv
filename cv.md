@@ -31,7 +31,7 @@ function multiply(a, b){
 
 RS Schools JavaScript/Front-end. Stage 0" (in progress)
 
-Projects: **https://github.com/Alexandr5cm/rsschool-cv.git**
+Projects: **https://Alexandr5cm.github.io/rsschool-cv/cv**
 
 ## Education:
 
