@@ -7,6 +7,8 @@ Phone: +375293336593
 
 Mail: sasha.goncherenok@gmail.com
 
+Discord: Aliaksandr (alexander5cm)
+
 ## About me:
 
 High learning ability, perseverance and a great desire to achieve their goals.
