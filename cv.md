@@ -31,6 +31,8 @@ function multiply(a, b){
 
 RS Schools JavaScript/Front-end. Stage 0" (in progress)
 
+Projects: **https://github.com/Alexandr5cm/rsschool-cv.git**
+
 ## Education:
 
 Belarusian State University of Food and Chemical Technologies.
