@@ -1,4 +1,3 @@
-
 # Alexander Goncherenok
 
 ## Contact Information:
@@ -35,8 +34,11 @@ Projects: **https://Alexandr5cm.github.io/rsschool-cv/cv**
 
 ## Education:
 
+
+
 Belarusian State University of Food and Chemical Technologies.
 
 ## Languages:
 
 English language - Level **B1**
+
